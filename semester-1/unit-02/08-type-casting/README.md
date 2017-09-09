@@ -1,7 +1,7 @@
 # Type Casting
 
 
-Python has built-in function that enable the programmer to convert or **type cast** data from one type to another.
+Python has built-in functions that enable the programmer to convert or **type cast** data from one format to another.
 
 Type conversion function:
 - **int(param)**
@@ -21,7 +21,7 @@ The **input** function returns all data as strings, so for example if you ask th
 x = input('first number')
 y = input('second number')
 
-# the next statemtn will produce an error - you can't divide strings!
+# the next statement will produce an error - you can't divide strings!
 
 print(x / y)
 

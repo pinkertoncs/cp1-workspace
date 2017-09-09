@@ -1,6 +1,6 @@
 # Strings
 
-A we have previously learned, a **string** is a sequence of characters.
+As we have previously learned, a **string** is a sequence of characters.
 String can be short or long (as seen below)
 
 

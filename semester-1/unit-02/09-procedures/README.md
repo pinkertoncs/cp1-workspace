@@ -27,7 +27,7 @@ To **call** a function/procedure, is just to use it's name followed by parenthes
 ```python
 # define the procedure, but don't execute the body yet…
 def foo():
-    msg = "Hello, world!" )
+    msg = "Hello, world!"
     #return 
     #uncomment the return statement to exit early
     print( msg )

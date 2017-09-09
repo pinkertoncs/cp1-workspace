@@ -10,7 +10,7 @@ In the most basic terms, variables are programmer defined named memory locations
 
 - If a variable is new, this is called **defining** or **initializing** the variable.
 
-- IF a variable has been previously been initialized, this is call **reassignment**
+- If a variable has been previously been initialized, this is call **reassignment**
 
 ## Examples
 
