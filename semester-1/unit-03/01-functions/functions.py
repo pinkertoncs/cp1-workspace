@@ -16,5 +16,5 @@ see README.md for notes
 # Call the function and capture and print the return value.
 
 
-# Answer the followigng question using print statements
+# Answer the following question using print statements
 # What is the purpose of return values?

@@ -42,7 +42,7 @@ main()
     - the value of *note* is copied to the local variable *msg* in goo's namespace
 
 ```python
-# goo has one parmeter, msg
+# goo has one parameter, msg
 def goo(msg):   # 3. msg gets the passed value ("hi!")
     print(msg)  # 4. value of msg is printed
 

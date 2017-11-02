@@ -18,7 +18,7 @@ def turtle_stuff():
     # YOUR CODE HERE
     #
 
-    # Use varible joe to 
+    # Use variable joe to
     #
     # - Draw a straight line
     # - Draw a path with multiple turns (try to write out you name)
