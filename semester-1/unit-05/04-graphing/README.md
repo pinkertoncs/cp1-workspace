@@ -19,6 +19,8 @@ import matplotlib.pyplot as plt
 - A pie chart is a circular graph which is divided into slices to illustrate proportions.
 
 ```python
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # graph labels
@@ -36,8 +38,8 @@ plt.pie(num_dishes, labels=labels, colors=colors)
 # equal x and y increments
 plt.axis('equal')
 
-# show the graph
-plt.show()
+# save the graph
+plt.savefig('piechart')
 
 ```
 
@@ -49,6 +51,8 @@ plt.show()
 - A bar chart is a graph that show information using rectangular bars with lengths that represent their values
 
 ```python
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # graph labels
@@ -69,8 +73,8 @@ plt.xticks(x, labels)
 # describe the y axis
 plt.ylabel('Number of Dishes')
 
-# show the graph
-plt.show()
+# save the graph
+plt.savefig('barchart')
 ```
 
 ![](graphics/bar.png) 
@@ -80,6 +84,8 @@ plt.show()
 - A line chart is graph that shows information as a grouping on points connected by lines.
 
 ```python
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # create a subplot, (1 row , 1 col) aka. 1 plot
@@ -104,8 +110,8 @@ ax.set_xticks(x)
 # set the labels to the food item
 ax.set_xticklabels(labels)
 
-# show the graph
-plt.show()
+# save the graph
+plt.savefig('linechart')
 ```
 ![](graphics/line.png)
 

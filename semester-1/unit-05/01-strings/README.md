@@ -3,7 +3,7 @@
 ## References
 
 - Tutorialspoint: [Python Strings](http://www.tutorialspoint.com/python/python_strings.htm)
-- Wikibooks: [Python PRogramming / Strings](https://en.wikibooks.org/wiki/Python_Programming/Strings)
+- Wikibooks: [Python Programming / Strings](https://en.wikibooks.org/wiki/Python_Programming/Strings)
 
 ## String Basics
 - Strings work just like lists of characters

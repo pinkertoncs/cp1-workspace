@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # create a subplot, (1 row , 1 col) aka. 1 plot
@@ -22,5 +24,5 @@ ax.set_xticks(x)
 # set the labels to the food item
 ax.set_xticklabels(labels)
 
-# show the graph
-plt.show()
+# save the graph
+plt.savefig('linechart')

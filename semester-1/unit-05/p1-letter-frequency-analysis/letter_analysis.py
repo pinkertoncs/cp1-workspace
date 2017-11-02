@@ -9,7 +9,7 @@ P1 - Letter Frequency analysis
 import matplotlib.pyplot as plt
 
 # Dictionary that holds a letter -> count
-letters_freq = {}
+LETTERS_FREQ = {}
 
 
 def read_file(filename):
@@ -60,6 +60,9 @@ def make_graph():
 
 
 def main():
+    """
+    main function
+    """
 
     read_file("test-input.txt")
     make_graph()

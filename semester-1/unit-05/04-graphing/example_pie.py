@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # graph labels
@@ -15,5 +17,5 @@ plt.pie(num_dishes, labels=labels, colors=colors)
 # equal x and y increments
 plt.axis('equal')
 
-# show the graph
-plt.show()
+# save the graph
+plt.savefig('piechart')

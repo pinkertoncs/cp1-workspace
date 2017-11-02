@@ -2,7 +2,7 @@
 
 Name:
 
-Prctice: dictionaries
+Practice: dictionaries
 
 see README.md for notes
 
@@ -18,8 +18,8 @@ see README.md for notes
 
 
 # ----------------------------------------------------------------------------
-# Itertate over the dictionary, printing the keys and entries
+# Iterate over the dictionary, printing the keys and entries
 
 
 # ----------------------------------------------------------------------------
-# Using print statement(s), compare and constrst lists and dictionaries
+# Using print statement(s), compare and contrast lists and dictionaries

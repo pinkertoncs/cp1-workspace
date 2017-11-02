@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # graph labels
@@ -18,5 +20,5 @@ plt.xticks(x, labels)
 # describe the y axis
 plt.ylabel('Number of Dishes')
 
-# show the graph
-plt.show()
+# save the graph
+plt.savefig('barchart')

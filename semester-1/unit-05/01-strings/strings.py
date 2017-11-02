@@ -19,7 +19,7 @@ see README.md for notes
 
 
 # ----------------------------------------------------------------------------
-# c.) Use string repalce() to get a copy of a string with all occurences of
+# c.) Use string replace() to get a copy of a string with all occurrences of
 # <name> replaces with your name, e.g. "One day <name> went to the store ..."
 #
 # Hint:
@@ -32,7 +32,7 @@ see README.md for notes
 
 # ----------------------------------------------------------------------------
 # d.) Use string find(), slicing, and concatenation to accomplish the task in
-# part c. Do not worry about multiple occerences (unless you want a challenge)
+# part c. Do not worry about multiple occurrences (unless you want a challenge)
 
 
 # ----------------------------------------------------------------------------
