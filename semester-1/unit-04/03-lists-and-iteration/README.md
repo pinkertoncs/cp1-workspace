@@ -135,7 +135,7 @@ pth
 - You can use a loop to generate a list, like so
     - Start with an empty list
     - append items as you go
-- *Note: be careful abput generating large list, you could end up using a lot of mempry!*
+- *Note: be careful about generating large list, you could end up using a lot of memory!*
 
 ```python
 numbers=[]

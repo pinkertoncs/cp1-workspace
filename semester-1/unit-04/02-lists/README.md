@@ -4,7 +4,7 @@
 - Tutorialspoint: [Python Lists](http://tutorialspoint.com/python/python_lists.htm)
 
 ## Lists
-- A **list** is very similar to a **tuple**, nut more flexible
+- A **list** is very similar to a **tuple**, but more flexible
 - Define lists using square brackets **[]**
 - Use the built-in **len** function to get the length of a list
 
@@ -43,7 +43,7 @@ print(last)
 
 # get a random element
 import random
-print( andom.choice(a_list))
+print( random.choice(a_list))
 ```
 
 ### Output
@@ -188,7 +188,7 @@ removing element [ marcus ] at index 2
         - returns a list of n random items from list
 
 ```python
-mport random
+import random
 
 x = list('qwertpoiuyasdfglkjhzxcvbnm')
 x.sort()

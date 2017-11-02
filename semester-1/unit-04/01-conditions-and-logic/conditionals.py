@@ -23,7 +23,7 @@ see README.md for notes
 
 
 # -----------------------------------------------------------------------------
-# write a function (three parameters) that prints the largest of 
+# write a function (three parameters) that prints the largest of
 # three numbers x, y, z
 
 # call your function

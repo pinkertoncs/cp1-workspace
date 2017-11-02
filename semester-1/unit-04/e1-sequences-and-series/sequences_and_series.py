@@ -1,6 +1,6 @@
 '''
 
-Name: 
+Name:
 
 P2: Sequences & Series
 
@@ -45,7 +45,7 @@ def mode(data):
     pass
 
 ##
-# GENERATORS - sequences, series 
+# GENERATORS - sequences, series
 # see: http://www.purplemath.com/modules/series.htm
 ##
 
@@ -66,12 +66,12 @@ def geometric(n, start, ratio):
 
 
 # CHALLENGE 2
-def sequence(n, start, foo):
+def sequence(n, start, func):
     """
     general sequence generator
     lower: starting input value for foo
     upper: end input value for foo
-    foo: function to compute
+    func: function to compute
     """
     return []
 
