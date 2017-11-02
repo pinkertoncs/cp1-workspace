@@ -1,7 +1,7 @@
 
 class Person:
 
-    # 2. Add a parameter a=0 to the constructir
+    # 2. Add a parameter a=0 to the constructor
     # 3. Assign the calling object's age to the parameter
     #   a in the constructor
     def __init__(self, n="Anonymous"):
@@ -31,7 +31,7 @@ class Person:
     def add_hobby(self, h):
         self.hobbies.append(h)
 
-    # 8. implementa method add_hobbies that takes
+    # 8. implement a method add_hobbies that takes
     #   a list of hobbies and adds all of them
     #   to the object's hobbies list
 

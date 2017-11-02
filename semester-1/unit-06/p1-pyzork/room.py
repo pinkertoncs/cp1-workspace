@@ -17,7 +17,7 @@ class Room:
         self.description = d
         self.doors = {}
         self.items = {}
-        pass
+
 
     def __str__(self):
         return self.name

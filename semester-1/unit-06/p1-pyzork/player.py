@@ -11,7 +11,7 @@ class Player:
         """
         self.location = location
         self.items = items
-    
+
     def __str__(self):
         """
         get string representation of Player
@@ -44,5 +44,5 @@ class Player:
 
 
 if __name__ == '__main__':
-    
+
     print('# UNIT TESTS FOR PLAYER')

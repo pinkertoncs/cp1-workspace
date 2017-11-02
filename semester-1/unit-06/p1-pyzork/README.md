@@ -67,7 +67,7 @@ if __name__=='__main__':
 Grand Hall
 Foyer
 ```
-### **Initialzing and testing Player**
+### **Initializing and testing Player**
 
 - implement player.goto()
 - In Player's unit tests, create a player object and set the player's initial location
@@ -129,7 +129,7 @@ a small entrance area
 - Please see notes on Implementing a CLI
 - Start the command loop in game.start()
 - Process the command in game.process_cmd()
-- All (or at leat most) commands will be linked to methods of the player (self.player)
+- All (or at least most) commands will be linked to methods of the player (self.player)
 - Implement these commands
     - help
     - look
@@ -141,7 +141,7 @@ a small entrance area
 
 **items**
 - Implement room.add_items() to add items to a room
-- Update player.look() so that, if an item is given as an argument, the dexcription of the item is printed
+- Update player.look() so that, if an item is given as an argument, the description of the item is printed
 - Implement player.take(), which removes an items from the Room;s items and adds it to the player's items.
 - Update / add these commands to the CLI
     - look [item]
@@ -149,7 +149,7 @@ a small entrance area
 
 **???**
 - What you do from here is up to you
-- Gameplay extensions include   
+- Game play extensions include
     - Container items (open mailbox and take leaflet)
     - Friends? Enemies? etc ...
 

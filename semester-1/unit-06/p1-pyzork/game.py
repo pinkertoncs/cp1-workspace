@@ -4,14 +4,15 @@ import player
 
 class Game:
 
-    def __init__(self):    
+    def __init__(self):
         """
          constructor: create a Game object
         initialize your game in here
-        """    
+        """
+
         self.rooms = []
         self.player = player.Player()
-        pass
+
 
     def print_rooms(self):
         """
