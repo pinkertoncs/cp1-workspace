@@ -98,8 +98,8 @@ print()
 
 # method2
 n = len(vowels)
-for i in range(n):
-    print( vowels[i], end='-' )
+for index in range(n):
+    print( vowels[index], end='-' )
 print()
 ```
 
