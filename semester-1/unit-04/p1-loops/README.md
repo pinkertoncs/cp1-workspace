@@ -75,7 +75,7 @@
 
 ### draw_star(t, n ,w)**
 
-- draws a start with *n* points and of width *w*
+- draws a star with *n* points and of width *w*
     - base : draws odd stars with 5+ points (5, 7, 9, etc)
     - **CHALLENGE 1**: draws odd and even stars with 5+ points
     - **CHALLENGE 2**: write another function to draw a star using the p,q parameter method described [here](https://en.wikipedia.org/wiki/Star_polygon)
