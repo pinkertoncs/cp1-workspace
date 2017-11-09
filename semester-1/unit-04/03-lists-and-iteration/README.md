@@ -154,7 +154,7 @@ print(numbers)
 
 - You can use nesting to repeat loops
 - The code in the body of the **outer loop (for i ...)** will execute 5 times total
-- the code in the boy of the **inner loop (for j ...)** will executer 25 times total - 5 times for each run of the outer loop
+- the code in the body of the **inner loop (for j ...)** will executer 25 times total - 5 times for each run of the outer loop
 - Study the example below
     - note the use of the **tab character: \\t**
 
