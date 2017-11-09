@@ -73,7 +73,7 @@
     - when you get to the end of a row, bring the turtle back to the start of the next row
 
 
-### draw_star(t, n ,w)**
+### **draw_star(t, n ,w)**
 
 - draws a star with *n* points and of width *w*
     - base : draws odd stars with 5+ points (5, 7, 9, etc)
