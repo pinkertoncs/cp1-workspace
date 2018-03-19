@@ -105,7 +105,7 @@
 - lists
     - ```<ol>``` is ordered list (numbers / letters )
     - ```<ul>``` is unordered list (bullet points)
-    - you can use **type** or **list-style-type** attributes to change the marker. (wee W3Schools)
+    - you can use **type** or **list-style-type** attributes to change the marker. (see W3Schools)
 
     ```html
 
@@ -126,7 +126,7 @@
     ```
 
 - divs and spans
-    - ```<div>``` is a **block-level element ** - it takes up the width of the page and the height of the content
+    - ```<div>``` is a **block-level element** - it takes up the width of the page and the height of the content
     - ```<span>``` is an inline element - it takes up only as much width as the content
     - divs and spans are used for creating layouts (more on this later)
 
