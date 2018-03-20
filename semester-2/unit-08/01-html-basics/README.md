@@ -16,7 +16,7 @@
 
 ## HTML template
 
-- Please review the primary reference 
+- Please review the primary reference
 - You can use the HTML template below to start a new document
 
 ```html
@@ -55,7 +55,7 @@
 ## Links and images
 
 - **Attributes** are like variables that specify something about the element
-- Universal attributes (all elements have these)  
+- Universal attributes (all elements have these)
     - **id** - used to identify a single element
     - **class** - used to identify a group of related elements (more on that later)
 
@@ -83,10 +83,10 @@
 
     ```
 
-    - image tag ```<img>```
-        - **src** filename or relative path; or Full URL of an online image
-        - **alt** sets alternative text to be displayed if image can't be loaded
-        - **height / width** dimensions in pixels of %. if you set up just one the other will scale automatically
+- image tag ```<img>```
+    - **src** filename or relative path; or Full URL of an online image
+    - **alt** sets alternative text to be displayed if image can't be loaded
+    - **height / width** dimensions in pixels of %. if you set up just one the other will scale automatically
 
     ```html
     <img src='example.jpg' alt='example image' width='250'/>
@@ -117,7 +117,7 @@
     </table>
 
     <!-- ol is ordered (numbered) list, use ul for unordered (bullets) -->
-    <ol>  
+    <ol>
         <li> list item 1 </li>
         <li> list item 1 </li>
         <li> list item 1 </li>
@@ -144,7 +144,7 @@
 - Some special character can be inserted using HTML entities
 - For more into visit:
     - [W3Schools HTML Entities](http://www.w3schools.com/html/html_entities.asp)
-- Common used entities 
+- Common used entities
     - ```&nbsp;``` inserts a space
     - ```&lt;``` < symbol
     - ```&gt;``` > symbol
