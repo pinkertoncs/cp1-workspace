@@ -18,20 +18,20 @@
 	- internal style will override external styles
 	- inline styles will override internal and external styles
  -  Example:
- 
+
  ```html
- 
+
  <!DOCTYPE html>
 <html>
 	<head>
 		<title>Template Page</title>
-		<!-- optional: external stylesheet 
+		<!-- optional: external stylesheet
 			will show error if file doesn't exist -->
 		<link rel="stylesheet" type="text/css" href="mystyle.css">
 		<style>
 			/* comment: internal CSS goes here */
-			body { 
-				background-color: lightblue; 
+			body {
+				background-color: lightblue;
 			}
 		</style>
 	</head>
@@ -46,7 +46,7 @@
 ## Selectors and Pseudos
 
 - You can select elements by id, className, or tagName
-	- use tagName to apple the style to all elements of that type
+	- use tagName to apply the style to all elements of that type
 	- use id to style a single element uniquely
 	- use className to style a group of elements the same way
 - Selectors
@@ -55,31 +55,31 @@
 	- You can combine selectors
 - Pseudo-classes
 	- Special conditions are identified using pseudo-classes
-	- The colon (:) is teh pseudo-class selector
-	
+	- The colon (:) is the pseudo-class selector
+
 ```html
 
 <html>
 	<head>
 	<style>
-	
+
 		p {
 			/* apply these styles to all p elements */
 		}
-		
+
 		p, h1{
 			/* apply these styles to all p AND h1 elements
 		}
-  
+
 		#no1 {
 			/* apply these styles to THE element with id=no1 */
 		}
-		
+
 		p.type1 {
 			/* apply these styles to ALL p elements with class=type1 */
 			/* omit the p to apply a class to different element types */
 		}
-		
+
 		#div2 p {
 			/* apply these styles to all p elements INSIDE of element with id=div2 */
 		}
@@ -101,8 +101,8 @@
 			<p class='type1'> paragraph 5 </p>
 	</div>
 
-	<div id='div2'> 
-		<p> The p in div2 </p> 
+	<div id='div2'>
+		<p> The p in div2 </p>
 	</div>
 
 	</body>
@@ -121,12 +121,12 @@
 - CSS Units
 	- Fonts sizes should be set using the **em** unit
 	- 1em is the default font size (1em = 16px), so 2em would be twice that, etc
-	
+
 ## Box model and dimensions
 
 ![](graphics/boxmodel.png)
 
-- The Css box model allows you to add
+- The CSS box model allows you to add
 	- padding - space between content and border
 	- border
 	- margin space between border and other elements
