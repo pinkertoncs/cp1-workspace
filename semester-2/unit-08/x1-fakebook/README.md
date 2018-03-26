@@ -7,7 +7,7 @@
 ## Tips
 
 - Check out this template to get started:
-    - [Fakebook template on JSFiddle](https://jsfiddle.net/mkulik/u2kz7ct5/)
+    - [Fakebook template](template/fakebook.html)
 - Notes on template
     - Define an absolute width for the page - the page should not shrink or grow when you resize the browser window
     - Remember - you can **nest** divs and other content inside of other container divs.
@@ -32,5 +32,3 @@
 - ![](graphics/twitter-clone.png)
 
 - ![](graphics/facebook-clone.png)
-
-
