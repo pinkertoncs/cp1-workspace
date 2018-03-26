@@ -146,7 +146,7 @@ document.body.onclick=function(event){
 
 ### Keyboard events
 
--[Demo](https://repl.it/HC2O/1)
+- [Demo](https://repl.it/HC2O/1)
 - From now on, we will specify most event handlers using DOM
 - In the ```initialize()``` function, get a handle to the document body ( or whatever element you want to handle keyboard events), and set it's **onkeyup** attribute
 - Why **onkeyup**?
