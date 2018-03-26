@@ -4,7 +4,7 @@
 ## References
 
 - [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-- [W3Schools CSS Reference](http://www.w3schools.com/sitemap/sitemap_references.asp)
+- [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
 
 ## Essentials
 
