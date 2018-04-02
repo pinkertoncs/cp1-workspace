@@ -17,7 +17,7 @@
     - The Internet
     - The WWW
     - Web2.0
-    - The Mobile Wen
+    - The Mobile Web
 - **Tips/Hints**
     - Put each section in a **div** and give each div or section header an id.
     - The Table of Contents should link to the sections on the page.
